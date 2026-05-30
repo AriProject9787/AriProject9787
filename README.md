@@ -28,7 +28,7 @@ class AriramaSelvam:
     location   = "Thoothukudi, Tamil Nadu 🇮🇳"
     education  = "B.E. Computer Science & Engineering @ Dr. G.U. Pope College of Engineering"
     focus      = ["Medical AI", "Full Stack Development", "Linux Administration", "Networking"]
-    published  = True  # Parkinson's Disease Detection — IJEASM, Vol.7, April 2026
+    published  = True  # 2 Papers — IJEASM & IJERT (ICCT'26)
     currently  = "Building AI-powered clinical & verification tools"
     fun_fact   = "I debug on Termux and deploy to the cloud 🚀"
 ```
@@ -46,8 +46,8 @@ class AriramaSelvam:
 
 **Stack:** TensorFlow · Keras · Streamlit · OpenCV · Python
 
-[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ariproject9787.github.io/portfolio/)
-[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787)
+[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ai-polyp-detector-ariramaselvam.streamlit.app/)
+[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787/finalYearProj/blob/main/README.md)
 
 </td>
 <td width="50%">
@@ -57,8 +57,8 @@ class AriramaSelvam:
 
 **Stack:** Python · Streamlit · Tesseract OCR · BeautifulSoup · OpenCV
 
-[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ariproject9787.github.io/portfolio/)
-[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787)
+[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ari-document-verfication.streamlit.app/)
+[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787/doc_verify/blob/main/README.md)
 
 </td>
 </tr>
@@ -70,8 +70,8 @@ class AriramaSelvam:
 
 **Stack:** HTML5 · CSS3 · JavaScript · Firebase
 
-[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ariproject9787.github.io/portfolio/)
-[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787)
+[![Live](https://img.shields.io/badge/Live_Demo-00d4ff?style=flat-square)](https://ariproject9787.github.io/inventory/brownie2/)
+[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787/inventory/blob/main/README.md)
 
 </td>
 <td width="50%">
@@ -81,7 +81,7 @@ class AriramaSelvam:
 
 **Stack:** Python · Linux · Shell Scripting
 
-[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787)
+[![Code](https://img.shields.io/badge/GitHub_Code-0d1117?style=flat-square&logo=github)](https://github.com/AriProject9787/linuxAutomationCheck/blob/main/README.md)
 
 </td>
 </tr>
@@ -91,11 +91,37 @@ class AriramaSelvam:
 
 ## 📚 Publications & Research
 
-📘 **Journal Publication** — *"A Multimodal Deep Learning Framework for Early Detection of Parkinson's Disease"*
-> International Journal of Engineering Applied Science and Management (IJEASM) · Vol. 7, Issue 4 · April 2026 · ISSN: 2582-6948
+<table>
+<tr>
+<td width="8%" align="center">📘</td>
+<td>
 
-🎤 **Conference Presentation** — *"Automated Gastrointestinal Disease Prediction using Deep Learning"*
-> 5th International Conference on Intelligent Computing and Communication Technology (ICCT'26) · March 2026
+**"A Multimodal Deep Learning Framework for Early Detection of Parkinson's Disease"**
+
+*International Journal of Engineering Applied Science and Management (IJEASM)*
+· Vol. 7, Issue 4 · April 2026 · ISSN: 2582-6948
+
+[![View Paper](https://img.shields.io/badge/View_Paper-IJEASM-blue?style=flat-square&logo=read-the-docs)](https://ijeasm.com/MainIssuePage.aspx?vol=7&issue=4)
+
+</td>
+</tr>
+<tr>
+<td width="8%" align="center">🎤</td>
+<td>
+
+**"Automated Gastrointestinal Disease Detection Using Deep Learning with CNN and U-Net Architectures"**
+
+*International Journal of Engineering Research & Technology (IJERT)*
+· Vol. 14, Issue 03 · ICCT-2026 · DOI: 10.17577/IJERTCONV14IS030014 · ISSN: 2278-0181
+
+[![View Paper](https://img.shields.io/badge/View_Paper-IJERT-green?style=flat-square&logo=read-the-docs)](https://www.ijert.org/automated-gastrointestinal-disease-detection-using-deep-learning-with-cnn-and-u-net-architectures-ijertconv14is030014)
+
+
+*Presented at the 5th International Conference on Intelligent Computing and Communication Technology (ICCT'26), March 2026*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -144,6 +170,7 @@ class AriramaSelvam:
 | Cybersecurity | Novitech & Corizo |
 | Linux & Networking | TryHackMe |
 
+
 > 🥇 **1st Prize** — Technical Quiz Competition
 
 ---
@@ -152,13 +179,10 @@ class AriramaSelvam:
 
 <div align="center">
 
-<!-- FIX: Using anuraghazra stats with cache_seconds to avoid rate limiting -->
-
 
 
 <br/><br/>
 
-<!-- FIX: streak-stats uses git.io domain which is more stable -->
 <img src="https://streak-stats.demolab.com/?user=AriProject9787&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
 
 </div>
@@ -169,7 +193,6 @@ class AriramaSelvam:
 
 <div align="center">
 
-<!-- FIX: Using github-readme-activity-graph — no setup required, works immediately -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriProject9787&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" alt="Contribution Graph"/>
 
 </div>
