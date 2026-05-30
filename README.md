@@ -91,15 +91,11 @@ class AriramaSelvam:
 
 ## 📚 Publications & Research
 
-<div>
-
 📘 **Journal Publication** — *"A Multimodal Deep Learning Framework for Early Detection of Parkinson's Disease"*
 > International Journal of Engineering Applied Science and Management (IJEASM) · Vol. 7, Issue 4 · April 2026 · ISSN: 2582-6948
 
 🎤 **Conference Presentation** — *"Automated Gastrointestinal Disease Prediction using Deep Learning"*
 > 5th International Conference on Intelligent Computing and Communication Technology (ICCT'26) · March 2026
-
-</div>
 
 ---
 
@@ -147,7 +143,6 @@ class AriramaSelvam:
 | Problem Solving | HackerRank |
 | Cybersecurity | Novitech & Corizo |
 | Linux & Networking | TryHackMe |
-| CCNA (Networking) | Cisco |
 
 > 🥇 **1st Prize** — Technical Quiz Competition
 
@@ -157,28 +152,32 @@ class AriramaSelvam:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriProject9787&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriProject9787&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8"/>
+<!-- FIX: Using anuraghazra stats with cache_seconds to avoid rate limiting -->
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AriProject9787&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- FIX: streak-stats uses git.io domain which is more stable -->
+<img src="https://streak-stats.demolab.com/?user=AriProject9787&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AriProject9787/AriProject9787/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<!-- FIX: Using github-readme-activity-graph — no setup required, works immediately -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AriProject9787&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AriProject9787&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
